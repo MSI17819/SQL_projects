@@ -14,16 +14,13 @@ Each table is describe in a [metadata]() file. The relationship database diagram
 ### Code folder
 Contains MySQL code files.
 
-### Viz folder
-Contains visualisation files for each project.
-
-## Technology stack
+### Technology stack
 
 - [MySQL](https://www.mysql.com/)
 - [Visual Code Studio](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel)
 -  SQL client - [DBeaver](https://dbeaver.io/)
 
-## Status
+### Status
 
 The project is: _in progress_.
