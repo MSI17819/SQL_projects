@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michał-sikora)
 
 ### General information
+---
 In this repository you will find all my analytical work related to SQL and visualisation tools such as Power BI or Tableau. The range of topics and datasets is wide, so you can find analytical work from football, healthcare and business. 
 
 1) *Chamiones League database* - a simple Champions League database covering the seasons from 1991/1992 to 2023/2024. The database contains 7 tables grouped into: teams, squads, seasons, players_list, group_stage, secound_group_stage, knock_out_stage.
