@@ -1,7 +1,6 @@
 # SQL database code
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michał-sikora)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](123michal86@gmail.com)
 
 ### General information
 In this repository you will find all my analytical work related to SQL and visualisation tools such as Power BI or Tableau. The range of topics and datasets is wide, so you can find analytical work from football, healthcare and business. 
