@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](123michal86@gmail.com)
 
 ### General information
-In this repository you will find all my analitics work related to MySQL and vizualization tool like Power BI or Tableau. The range of topic and datasets is wide, so here you can find analitics works from football, healtcare and buissnes. 
+In this repository you will find all my analitics work related to SQL and vizualization tool like Power BI or Tableau. The range of topic and datasets is wide, so here you can find analitics works from football, healtcare and buissnes. 
 
 1) *Chamiones League database* - simple Championes League competition database seasons range 1991/1992 to 2023/2024. Database contain 7 tables grouped into: teams, squads, seasons, player_list, group_stage, secound_group_stage, knock_out_stage.
 Each table is describe in [metadata]() pdf file. The database relations/schema diagram is [here]().
