@@ -20,16 +20,11 @@ Contains visualisation files for each project.
 
 ## Technology stack
 
-### Computing platform
-- MySQL](https://www.mysql.com/)
-- Visual Code Studio](https://code.visualstudio.com/)
+- [MySQL](https://www.mysql.com/)
+- [Visual Code Studio](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel)
 - [DBeaver](https://dbeaver.io/) - SQL client
-
-### Data visualisation
 
 ## Status
 
 The project is: _in progress_.
-
-Translated with DeepL.com (free version)
