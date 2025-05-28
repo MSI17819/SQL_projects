@@ -9,7 +9,7 @@ In this repository you will find all my analytical work related to SQL and visua
 1) *Chamiones League database* - a simple Champions League database covering the seasons from 1991/1992 to 2023/2024. The database contains 7 tables grouped into: teams, squads, seasons, lplayers_list, stage_group, secound_group_stage, knock_out_stage.
 Each table is described in a [metadata]() pdf file. The relationship/database diagram can be found [here]().
 
-### Data set folder
+### Dataset folder
 1) The Champions League database contains 7 csv [files](). The data was obtained from the [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Champions League website.
 
 ### Code folder
