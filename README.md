@@ -22,7 +22,7 @@ Contains visualisation files for each project.
 - [MySQL](https://www.mysql.com/)
 - [Visual Code Studio](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel)
-- [DBeaver](https://dbeaver.io/) - SQL client
+- [DBeaver](https://dbeaver.io/) as SQL client
 
 ## Status
 
