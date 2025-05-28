@@ -11,7 +11,7 @@ Each table is described in a [metadata]() file. The relationship database diagra
 
 ### Dataset folder
 1) The Champions League database contains 7 csv [files](). The data was obtained from the [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Champions League website.
-Cleaned, pre-processed into a usable form.
+I cleaned and pre-processed the data into a usable form.
 
 ### Code folder
 Contains MySQL code files.
