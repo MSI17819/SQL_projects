@@ -4,25 +4,25 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](123michal86@gmail.com)
 
 ### General information
-In this repository you will find all my analitics work related to SQL and vizualization tool like Power BI or Tableau. The range of topic and datasets is wide, so here you can find analitics works from football, healtcare and buissnes. 
+In this repository you will find all my analytical work related to SQL and visualisation tools such as Power BI or Tableau. The range of topics and datasets is wide, so you can find analytical work from football, healthcare and business. 
 
-1) *Chamiones League database* - simple Championes League competition database seasons range 1991/1992 to 2023/2024. Database contain 7 tables grouped into: teams, squads, seasons, player_list, group_stage, secound_group_stage, knock_out_stage.
-Each table is describe in [metadata]() pdf file. The database relations/schema diagram is [here]().
+1) *Chamiones League database* - a simple Champions League database covering the seasons from 1991/1992 to 2023/2024. The database contains 7 tables grouped into: teams, squads, seasons, lplayers_list, stage_group, secound_group_stage, knock_out_stage.
+Each table is described in a [metadata]() pdf file. The relationship/database diagram can be found [here]().
 
-### Dataset folder
-1) Championes League database contain 7 csv type [files](). The data were obtained from [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Championes League website.
+### Data set folder
+1) The Champions League database contains 7 csv [files](). The data was obtained from the [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Champions League website.
 
 ### Code folder
-Contains files with MySQL code.
+Contains MySQL code files.
 
 ### Viz folder
-Contains files with visualisations for each project.
+Contains visualisation files for each project.
 
 ## Technology stack
 
 ### Computing platform
-- [MySQL](https://www.mysql.com/)
-- [Visual Code Studio](https://code.visualstudio.com/)
+- MySQL](https://www.mysql.com/)
+- Visual Code Studio](https://code.visualstudio.com/)
 - [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel)
 - [DBeaver](https://dbeaver.io/) - SQL client
 
@@ -30,4 +30,6 @@ Contains files with visualisations for each project.
 
 ## Status
 
-Project is: _in progress_
+The project is: _in progress_.
+
+Translated with DeepL.com (free version)
