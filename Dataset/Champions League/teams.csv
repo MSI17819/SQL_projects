@@ -1,0 +1,153 @@
+team_id;team_name;country_code;country_name;city_name
+1;UC Sampdoria;ITA;Italy;Sampdoria
+2;Red Star Belgrade;SRB;Serbia;Belgrade
+3;RSC Anderlecht;BEL;Belgium;Brussels
+4;Panathinaikos AO;GRC;Greece;Athens
+5;FC Barcelona;ESP;Spain;Barcelona
+6;Sparta Prague;CZE;Czech;Prague
+7;SL Benfica;PRT;Portugal;Lisbon
+8;Dynamo Kyiv;UKR;Ukraine;Kyiv
+9;Olympique Marseille;FRA;France;Marseille
+10;Rangers F.C.;GBR;Scotland;Glasgow
+11;Club Brugge;BEL;Belgium;Brugge
+12;CSKA Moscow;RUS;Russia;Moscow
+13;A.C. Milan;ITA;Italy;Milan
+14;IFK Goteborg;SWE;Sweden;Goteborg
+15;FC Porto;PRT;Portugal;Porto
+16;PSV Eindhoven;NLD;Netherlands;Eindhoven
+17;Spartak Moscow;RUS;Russia;Moscow
+18;AS Monaco;FRA;France;Monacco
+19;Galatasaray SK;TUR;Turkey;Stambul
+20;Werder Bremen;DEU;Germany;Bremen
+21;AEK Athens;GRC;Greece;Athens
+22;Manchester United F.C.;GBR;England;Manchester
+23;Paris Saint-Germain F.C.;FRA;France;Paris
+24;FC Bayern Munich;DEU;Germany;Munich
+25;Hajduk Split;HRV;Croatia;Split
+26;CSA Steaua Bucuresti;ROU;Romania;Bucharest
+27;Ajax Amsterdam;NLD;Netherlands;Amsterdam
+28;Casino Salzburg;AUT;Austria;Salzburg
+29;FC Nantes;FRA;France;Nantes
+30;AaB Aalborg;DNK;Denmark;Aalborg
+31;Legia Warsaw;POL;Poland;Warsaw
+32;Rosenborg BK;NOR;Norway;Trondheim
+33;Blackburn Rovers;GBR;England;Blackburn
+34;Juventus F.C.;ITA;Italy;Turin
+35;Borussia Dortmund;DEU;Germany;Dortmund
+36;Real Madrid;ESP;Spain;Madrid
+37;Ferencvaros TC;HUN;Hungary;Ferencvaros
+38;Grasshopper Club Zurich;CHE;Switzerland;Zurich
+39;Fenerbahce SK;TUR;Turkey;Stambul
+40;Atletico Madrid;ESP;Spain;Madrid
+41;AJ Auxerre;FRA;France;Auxerre
+42;Widzew Lodz;POL;Poland;Lodz
+43;Rapid Wien;AUT;Austria;Vienna
+44;Sporting CP;PRT;Portugal;Lisbon
+45;Besiktas JK;TUR;Turkey;Stambul
+46;AC Parma;ITA;Italy;Parma
+47;Feyenoord Rotterdam;NLD;Netherlands;Rotterdam
+48;FC Kosicee;SVK;Slovakia;Kosicee
+49;Newcastle United F.C.;GBR;England;Newcastle
+50;Olympiacos SFP;GRC;Greece;Pireus
+51;Bayer Leverkusen;DEU;Germany;Leverkusen
+52;Lierse SK;BEL;Belgium;Lier
+53;Inter Mediolan;ITA;Italy;Milan
+54;Dinamo Zagreb;HRV;Croatia;Zagreb
+55;Athletic Bilbao;ESP;Spain;Bilbao
+56;Sturm Graz;AUT;Austria;Graz
+57;Brondby IF;DNK;Denmark;Copenhagen
+58;RC Lens;FRA;France;Lens
+59;Arsenal F.C.;GBR;England;London
+60;FC Kaiserslautern;DEU;Germany;Kaiserslautern
+61;HJK Helsinki;FIN;Finland;Helsinki
+62;FK Partizan;SRB;Serbia;Belgrade
+63;Celtic F.C.;GBR;Scotland;Glasgow
+64;Lokomotiv Moscow;RUS;Russia;Moscow
+65;Chelsea F.C.;GBR;England;London
+66;S.S. Lazio;ITA;Italy;Rome
+67;Olympique Lyon;FRA;France;Lyon
+68;Deportivo La Coruna;ESP;Spain;A Coruna
+69;Real Sociedad;ESP;Spain;San Sebastian
+70;VfB Stuttgart;DEU;Germany;Stuttgart
+71;Celta Vigo;ESP;Spain;Vigo
+72;AS Roma;ITA;Italy;Rome
+73;Valencia CF;ESP;Spain;Valencia
+74;Shakhtar Donetsk;UKR;Ukraine;Donetsk
+75;Liverpool F.C.;GBR;England;Liverpool
+76;Maccabi Haifa;ISR;Israel;Haifa
+77;FC Schalke 04;DEU;Germany;Gelsenkirchen
+78;Lille OSC;FRA;France;Lille
+79;FC Thun;CHE;Switzerland;Thun
+80;Udinese Calcio;ITA;Italy;Udine
+81;Villarreal CF;ESP;Spain;Villarreal
+82;Real Betis;ESP;Spain;Sevilla
+83;FC Petrzalka;SVK;Slovakia;Bratislava
+84;F.C. Copenhagen;DNK;Denmark;Copenhagen
+85;Girondins Bordeaux;FRA;France;Bordeaux
+86;Hamburger SV;DEU;Germany;Hamburg
+87;Levski Sofia;BGR;Bulgaria;Sofia
+88;Slavia Prague;CZE;Czech;Prague
+89;Sevilla FC;ESP;Spain;Sevilla
+90;ACF Fiorentina;ITA;Italy;Fiorentina
+91;FC Basel;CHE;Switzerland;Basel
+92;CFR Cluj;ROU;Romania;Cluj
+93;Anorthosis Famagusta;CYP;Cyprus;Larnaca
+94;Zenit Saint Petersburg;RUS;Russia;Moscow
+95;BATE Borisov;BLR;Belarus;Barysaw
+96;FC Zurich;CHE;Switzerland;Zurich
+97;VfL Wolfsburg;DEU;Germany;Wolfsburg
+98;APOEL Nikosia;CYP;Cyprus;Nicosia
+99;Debreceni VSC;HUN;Hungary;Debrecen
+100;Rubin Kazan;RUS;Russia;Kazan
+101;Unirea Urziceni;ROU;Romania;Urziceni
+102;Standard Liege;BEL;Belgium;Liege
+103;AZ Alkmaar;NLD;Netherlands;Alkmaar
+104;Tottenham Hotspur;GBR;England;London
+105;HAPOEL Tel Awiw;ISR;Israel;Tel Aviv
+106;FC Twente;NLD;Netherlands;Enschede
+107;Bursaspor;TUR;Turkey;Bursa
+108;MSK Zilina;SVK;Slovakia;Zilina
+109;SC Braga;PRT;Portugal;Braga
+110;Manchester City F.C.;GBR;England;Manchester
+111;KRC Genk;BEL;Belgium;Genk
+112;SSC Napoli;ITA;Italy;Naples
+113;Trabzonspor;TUR;Turkey;Trabzon
+114;Otelul Galati;ROU;Romania;Galati
+115;FC Viktoria Plzen;CZE;Czech;Pilsen
+116;Montpellier HSC;FRA;France;Montpellier
+117;Malaga CF;ESP;Spain;Malaga
+118;Nordsjaelland;DNK;Denmark;Farum
+119;Austria Wien;AUT;Austria;Vienna
+120;NK Maribor;SVN;Slovenia;Maribor
+121;Malmo FF;SWE;Sweden;Malmo
+122;Ludogorets Razgrad;BGR;Bulgaria;Razgrad
+123;Maccabi Tel Aviv;ISR;Israel;Tel Aviv
+124;FC Astana;KAZ;Kazakhstan;Astana
+125;Borussia Monchengladbach;DEU;Germany;Monchengladbach
+126;KAA Gent;BEL;Belgium;Gent
+127;FC Rostov;RUS;Russia;Rostov
+128;Leicester City;GBR;England;Leicester
+129;Qarabag FK;AZE;Azerbaijan;Karabakh
+130;RB Leipzig;DEU;Germany;Leipzig
+131;TSG Hoffenheim;DEU;Germany;Hoffenheim
+132;BSC Young Boys;CHE;Switzerland;Bern
+133;Red Bull Salzburg;AUT;Austria;Salzburg
+134;Atalanta BC;ITA;Italy;Bergamo
+135;Basaksehir FK;TUR;Turkey;Stambul
+136;FC Midtjylland;DNK;Denmark;Herning
+137;FC Krasnodar;RUS;Russia;Krasnodar
+138;Stade Rennais;FRA;France;Rennes
+139;FC Sheriff Tyraspol;MDA;Moldova;Tiraspol
+140;Eintracht Frankfurt;DEU;Germany;Frankfurt
+141;1.FC Union Berlin;DEU;Germany;Berlin
+142;Royal Antwerp FC;BEL;Belgium;Antwerp
+143;Boavista FC;PRT;Portugal;Lisbon
+144;SK Sturm Graz;AUT;Austria;Graz
+145;AIK Fotboll;SWE;Sweden;Solna
+146;Molde FK;NOR;Norway;Molde
+147;Willem II;NLD;Netherlands;Tilburg
+148;Hertha BSC;DEU;Germany;Berlin
+149;SC Heerenveen;NLD;Netherlands;Heerenveen
+150;Helsingborgs IF;SWE;Sweden;Helsingborgs
+151;Leeds United F.C.;GBR;England;Leeds
+152;RCD Mallorca;ESP;Spain;Mallorca
