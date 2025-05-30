@@ -1,5 +1,6 @@
 # SQL database code
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michał-sikora)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/michals22/champions-league-seasons-19911992-20232024#)
 
 ### General information
 In this repository you will find all my analytical work related to SQL and visualisation tools such as Power BI or Tableau. The range of topics and datasets is wide, so you can find analytical work from football, healthcare and business. 
