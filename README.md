@@ -5,7 +5,7 @@
 In this repository you will find all my analytical work related to SQL and visualisation tools such as Power BI or Tableau. The range of topics and datasets is wide, so you can find analytical work from football, healthcare and business. 
 
 1) *Champions League database* - a simple Champions League database covering the seasons from 1991/1992 to 2023/2024. The database contains 7 tables grouped into: teams, squads, seasons, players_list, group_stage, secound_group_stage, knock_out_stage.
-Each table is describe in a [metadata](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/championes_league_metadata.pdf) file. The relationship database diagram can be found [here](https://github.com/MSI17819/SQL/blob/main/Dataset/Champions%20League/championes_league_database_diagram.png)
+Each table is describe in a [metadata](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/championes_league_metadata.pdf) file. The relationship database diagram can be found [here](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/champions_league_database_diagram.png)
 
 ### Dataset folder
 1) The Champions League dataset contains 7 csv [files](https://github.com/MSI17819/SQL_projects/tree/main/Dataset/Champions%20League). The data was obtained from the [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Champions League website. I cleaned and pre-processed the data into a usable form. The folder also contains: metadata file and database architecture schema.
