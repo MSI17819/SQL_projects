@@ -78,6 +78,7 @@ All team with most apperance in round 1 of 16 Uefa Champions League
 ```
 
 All team with most apperance in quater final Uefa Champions League
+```
 +--------------------------+--------------+----------------+-----------------+
 |        team_name         | country_name |   city_name    | count_team_name |
 +--------------------------+--------------+----------------+-----------------+
@@ -136,8 +137,10 @@ All team with most apperance in quater final Uefa Champions League
 |        RB Leipzig        |   Germany    |    Leipzig     |        1        |
 |        SSC Napoli        |    Italy     |     Naples     |        1        |
 +--------------------------+--------------+----------------+-----------------+
+```
 
 Most apperance in semi final stage
+```
 +--------------------------+--------------+---------------+-----------------+
 |        team_name         | country_name |   city_name   | count_team_name |
 +--------------------------+--------------+---------------+-----------------+
@@ -173,3 +176,4 @@ Most apperance in semi final stage
 |    Tottenham Hotspur     |   England    |     London    |        1        |
 |        RB Leipzig        |   Germany    |    Leipzig    |        1        |
 +--------------------------+--------------+---------------+-----------------+
+```
