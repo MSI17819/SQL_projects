@@ -1,9 +1,34 @@
 ### Introduction
+---
 
-Championes League is for sure a Holly Grail for football teams, in terms of prestige and money. Player, coach, sport director and clubs in each year want to be in one of dozens apperance in UEFA competition. The competitions has a great and long history beginning from 1955 as Euuropean Cup and after 1992 the name estalisished well know right now UEFA Champions League. In different season, the competition format was various, including season 2024/2025 with new rules. The competiotn has a great history of teams, players and clubs so lets make a focal point this history. Show more UEFA Championes League as history proces, with Europe broken into two camp the Western and Eastern. After 1947 Iron curtain split continent into two, Wester Block with most of Wester European coutries and German as RFN and Eastern Block with middle and Eastern coutries and secound part of German the eastern twin for RFN a NRD country. The coutries lay east from NRD like Poland, CzechSlowakian (in that time), Hungary, Bulgaria, Romonia were incorporate to ZSRR area of influence. The Western Block was more or less a free world block with all persona and economic freddom for them citizens. Here I start our journey with history and Championes League.
+Championes League is for sure a Holly Grail for football teams, in terms of prestige and money. Player, coach, sport director and clubs in each year want to be in one of dozens apperance in UEFA competition. The competitions has a great and long history beginning from 1955 as Euuropean Cup and after 1992 the name estalisished well know right now UEFA Champions League. In different season, the competition format was various, including season 2024/2025 with new rules. The competiotn has a great history of teams, players and clubs so lets make a focal point this history. Show more UEFA Championes League as history proces, with Europe broken into two camp the Western and Eastern. After 1947 Iron curtain split continent into two, Wester Block with most of Wester European coutries and German as RFN and Eastern Block with middle and Eastern coutries and secound part of German the eastern twin for RFN a NRD country. The coutries lay east from NRD like Poland, CzechSlowakian (in that time), Hungary, Bulgaria, Romonia were incorporate to ZSRR area of influence. The Western Block was more or less a free world block with all personal and economic freedom for citizens. Here I start our journey with history and Championes League.
 
+### Assumptions
+---
 
-All team with most apperance in round 1 of 16 Uefa Champions League
+In my analysis I consider only CM (Championes League) seasons from 1991/1992 to 2023/2024, so I do not include a time when competitions have different forma and name. I took an end of December 1991 (25 December 1991) as date when the ZSRR was formally dissolved by the fact of dimission Mr. Michaił Gorbaczow. Split between two block Easen and Western was formaly ended (formaly yes, but this split is still present at now days).
+
+### Skill and technique
+---
+
+To conduct this analysis, I used:
+- MySQL – the core of my analysis, to extract meaningful insights from the database.
+- DBeaver – the database management client.
+- Visual Studio Code – mainly to write a Python scritp for extract ANSII sytle table. I used *prettytable* Python library.
+- Git & GitHub – essential for sharing SQL scripts, and tracking project progress.
+- Power BI – data visualization, transforming SQL-queries data into insightful charts.
+
+### The Analysis
+---
+Let's start from take a simple question about how many times each team present in CM competition was in four stages:
+- round 1 of 16
+- quater final
+- semi final
+- final
+
+This information give essentsial insight to know team name, team city and country with most apperance in each stage.
+
+Table 1. Team with the most apperance in round 1 of 16.
 ```
 +--------------------------+--------------+-----------------+-----------------+
 |        team_name         | country_name |    city_name    | count_team_name |
@@ -75,8 +100,19 @@ All team with most apperance in round 1 of 16 Uefa Champions League
 |   Eintracht Frankfurt    |   Germany    |    Frankfurt    |        1        |
 +--------------------------+--------------+-----------------+-----------------+
 ```
+If we look closer and take to consideration a city and coutry we have from old Sowiet block:
+1) Shakhtar Donetsk - 4 times
+2) RB Leipzig - 4 times
+3) Zenit Saint Petersburg - 3 times
+4) CSKA Moscow - 2 times
+5) Lokomotiv Moscow - 1 time
+6) Sparta Prague - 1 time
+7) Dynamo Kyiv - 1 time
+Total - 7 teams.
 
-All team with most apperance in quater final Uefa Champions League
+Take next step to quater-final and repeat proces one more time
+
+Table 1. Team with the most apperance in quater final round.
 ```
 +--------------------------+--------------+----------------+-----------------+
 |        team_name         | country_name |   city_name    | count_team_name |
@@ -137,8 +173,18 @@ All team with most apperance in quater final Uefa Champions League
 |        SSC Napoli        |    Italy     |     Naples     |        1        |
 +--------------------------+--------------+----------------+-----------------+
 ```
+Teams list from ZSSR block:
+1) Dynamo Kyiv - 2 times
+2) Spartak Moscow - 1 time
+3) CSKA Moscow - 1 time
+4) Legia Warsaw - 1 time
+5) Shakhtar Donetsk - 1 time
+6) RB Leipzig - 1 time
+Total 6 teams
 
-Most apperance in semi final stage
+Lets analys semi final stage.
+
+Table 3. Team with the most apperance in semi final round.
 ```
 +--------------------------+--------------+---------------+-----------------+
 |        team_name         | country_name |   city_name   | count_team_name |
@@ -176,3 +222,11 @@ Most apperance in semi final stage
 |        RB Leipzig        |   Germany    |    Leipzig    |        1        |
 +--------------------------+--------------+---------------+-----------------+
 ```
+Teams list from former ZSSR block:
+1) Dynamo Kyiv - 1 time
+2) RB Leipzig - 1 time
+
+The last table with teams from final stage and winner table.
+
+
+
