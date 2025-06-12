@@ -1,8 +1,7 @@
 ### Introduction
 
-Championes League is for sure a Holly Grail for football teams, in terms of prestige and money.
-Player, coach or sport director in each year want to be in one of dozens teams apperance in UEFA competition.
-The most 
+Championes League is for sure a Holly Grail for football teams, in terms of prestige and money. Player, coach, sport director and clubs in each year want to be in one of dozens apperance in UEFA competition. The competitions has a great and long history beginning from 1955 as Euuropean Cup and after 1992 the name estalisished well know right now UEFA Champions League. In different season, the competition format was various, including season 2024/2025 with new rules. The competiotn has a great history of teams, players and clubs so lets make a focal point this history. Show more UEFA Championes League as history proces, with Europe broken into two camp the Western and Eastern. After 1947 Iron curtain split continent into two, Wester Block with most of Wester European coutries and German as RFN and Eastern Block with middle and Eastern coutries and secound part of German the eastern twin for RFN a NRD country. The coutries lay east from NRD like Poland, CzechSlowakian (in that time), Hungary, Bulgaria, Romonia were incorporate to ZSRR area of influence. The Western Block was more or less a free world block with all persona and economic freddom for them citizens. Here I start our journey with history and Championes League.
+
 
 All team with most apperance in round 1 of 16 Uefa Champions League
 ```
