@@ -1,16 +1,23 @@
 ### Introduction
 ---
 
-Championes League is for sure a Holly Grail for football teams, in terms of prestige and money. Player, coach, sport director and clubs in each year want to be in one of dozens apperance in UEFA competition. The competitions has a great and long history beginning from 1955 as Euuropean Cup and after 1992 the name estalisished well know right now UEFA Champions League. In different season, the competition format was various, including season 2024/2025 with new rules. The competiotn has a great history of teams, players and clubs so lets make a focal point this history. Show more UEFA Championes League as history proces, with Europe broken into two camp the Western and Eastern. After 1947 Iron curtain split continent into two, Wester Block with most of Wester European coutries and German as RFN and Eastern Block with middle and Eastern coutries and secound part of German the eastern twin for RFN a NRD country. The coutries lay east from NRD like Poland, CzechSlowakian (in that time), Hungary, Bulgaria, Romonia were incorporate to ZSRR area of influence. The Western Block was more or less a free world block with all personal and economic freedom for citizens. Here I start our journey with history and Championes League.
+The Champions League is certainly the Holy Grail for football teams, in terms of prestige and money. Players, coaches, sporting directors and clubs every year want to be one of the dozens of participants and play in the UEFA competition. This competition has a glorious and long history, starting in 1955 as the European Cup, and after 1992 the competition adopted the now well-known name of the UEFA Champions League. The format of the competition has varied in different seasons, including the 2024/2025 season with new competition rules. The competition has a great history of teams, players and clubs, so let's make that history the focal point of this story. 
+I want to show the Champions League as a historical process, not so much in terms of the history of goals scored, teams and players but, a history with Europe divided into two camps: west and east.
+
+Let's start, then, from the beginning. After 1947, the Iron Curtain divided the continent into two parts, a western bloc with most of Western Europe and part of Germany as RFN, and an eastern bloc with central and eastern European countries and the other part of Germany, the eastern twin of RFN, the NRD. Countries to the east of the NRD, such as Poland, Czechoslovakia (at the time), Hungary, Bulgaria, Romania were included in the sphere of influence of the then ZSSR. The western bloc was more or less a bloc with full personal and economic freedom for its citizens on the other hand the eastern bloc was identified with the sovereignty and control of the ZSSR.
+For the sake of clarity, I have taken the date of the end of December 1991 (25 December 1991) when the ZSSR was formally dissolved by Mikhail Gorbachev as the definitive end of the Western and Eastern blocs. It was then that the split formally ended, but analysing the latest political-economic and football situation, the split is still present today.
+
+For a better understanding of the topic, I have included below a picture of a map of Europe with the dividing line for the western and eastern parts marked.
+
+![image info](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/ion_curtain_europe.jpeg)
+*Source https://imgur.com/map-of-europe-following-world-war-ii-3120x2038-tr17uEy*
 
 ### Assumptions
 ---
-
-In my analysis I consider only CM (Championes League) seasons from 1991/1992 to 2023/2024, so I do not include a time when competitions have different forma and name. I took an end of December 1991 (25 December 1991) as date when the ZSRR was formally dissolved by the fact of dimission Mr. Michaił Gorbaczow. Split between two block Easen and Western was formaly ended (formaly yes, but this split is still present at now days).
+In my analysis I only consider the CM (Champions League) seasons from 1991/1992 to 2023/2024, so I do not include the period when the competition had a different form and name.  
 
 ### Skill and technique
 ---
-
 To conduct this analysis, I used:
 - MySQL – the core of my analysis, to extract meaningful insights from the database.
 - DBeaver – the database management client.
@@ -100,15 +107,7 @@ Table 1. Team with the most apperance in round 1 of 16.
 |   Eintracht Frankfurt    |   Germany    |    Frankfurt    |        1        |
 +--------------------------+--------------+-----------------+-----------------+
 ```
-If we look closer and take to consideration a city and coutry we have from old Sowiet block:
-1) Shakhtar Donetsk - 4 times
-2) RB Leipzig - 4 times
-3) Zenit Saint Petersburg - 3 times
-4) CSKA Moscow - 2 times
-5) Lokomotiv Moscow - 1 time
-6) Sparta Prague - 1 time
-7) Dynamo Kyiv - 1 time
-Total - 7 teams.
+The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude filtering available in the *teams* table.
 
 Take next step to quater-final and repeat proces one more time
 
