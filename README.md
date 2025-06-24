@@ -11,12 +11,12 @@ Each table is describe in a [metadata](https://github.com/MSI17819/SQL_projects/
 ### Dataset folder
 1) The Champions League dataset contains 7 csv [files](https://github.com/MSI17819/SQL_projects/tree/main/Dataset/Champions%20League). The data was obtained from the [FBref](https://fbref.com/en/comps/8/history/Champions-League-Seasons) Champions League website. I cleaned and pre-processed the data into a usable form. The folder also contains: metadata file and database architecture schema.
 
-### Code folder
-Contains MySQL project [code](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/top_30_player_with_most_minute_played_in_all_CL_competition.sql)
-
 ### Project folder
 Contains information about the project and additional necessary files.
 1. [Champions League the historical Europe split](https://github.com/MSI17819/SQL_projects/blob/main/Code/championes_league_project.md) 
+
+### Code folder
+Contains MySQL project [code](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/top_30_player_with_most_minute_played_in_all_CL_competition.sql)
 
 ### Technology stack
 - [MySQL](https://www.mysql.com/)
