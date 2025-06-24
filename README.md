@@ -17,6 +17,7 @@ Contains MySQL [code](https://github.com/MSI17819/SQL_projects/blob/main/Code/Ch
 ### Technology stack
 - [MySQL](https://www.mysql.com/)
 - [Visual Code Studio](https://code.visualstudio.com/)
+- [Python](https://www.python.org/)
 - [Microsoft Excel](https://www.microsoft.com/pl-pl/microsoft-365/excel)
 -  SQL client - [DBeaver](https://dbeaver.io/)
 
