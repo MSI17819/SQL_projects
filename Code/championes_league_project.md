@@ -10,7 +10,7 @@ For the sake of clarity, I have taken the date of the end of December 1991 (25 D
 For a better understanding of the topic, I have included below a picture of a map of Europe with the dividing line for the western and eastern parts marked.
 
 ![image info](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/ion_curtain_europe.jpeg)
-*Source https://imgur.com/map-of-europe-following-world-war-ii-3120x2038-tr17uEy*
+[*Map source*](https://imgur.com/map-of-europe-following-world-war-ii-3120x2038-tr17uEy)
 
 ### Assumptions
 ---
@@ -21,8 +21,9 @@ In my analysis I only consider the CM (Champions League) seasons from 1991/1992 
 To conduct this analysis, I used:
 - MySQL – the core of my analysis, to extract meaningful insights from the database.
 - DBeaver – the database management client.
-- Visual Studio Code – mainly to write a Python scritp for extract ANSII sytle table. I used *prettytable* Python library.
-- Git & GitHub – essential for sharing SQL scripts, and tracking project progress.
+- Python - mainly transformation of sql query results in csv form.
+- Visual Studio Code – mainly to write a Python scritp for extract ANSII style table. I used *prettytable* Python library.
+- Git & GitHub – essential for sharing SQL scripts, and tracking progress.
 - Power BI – data visualization, transforming SQL-queries data into insightful charts.
 
 ### The Analysis
@@ -33,9 +34,9 @@ Let's start from take a simple question about how many times each team present i
 - semi final
 - final
 
-This information give essentsial insight to know team name, team city and country with most apperance in each stage.
+This information give essentsial insight to: team name, team city and country with most apperance in each stage.
 
-Table 1. Team with the most apperance in round 1 of 16.
+Table 1. Teams with the most apperance in round 1 of 16.
 ```
 +--------------------------+--------------+-----------------+-----------------+
 |        team_name         | country_name |    city_name    | count_team_name |
@@ -107,7 +108,12 @@ Table 1. Team with the most apperance in round 1 of 16.
 |   Eintracht Frankfurt    |   Germany    |    Frankfurt    |        1        |
 +--------------------------+--------------+-----------------+-----------------+
 ```
-The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude filtering available in the *teams* table.
+The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude filtering available in the [*teams*](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/teams.csv) table.
+
+The geographical coordinates are given in a two-number system, where the longitude takes on negative values when moving west of the 0 meridian. After little query modification and result is table below. 
+I took the dividing line between the two blocks as the 14th degree of east longitude, so the eastern block is the cities to the right of this value and the western block is the teams from the countries to the left of this geographical degree.
+
+Table 2. Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
 
 Take next step to quater-final and repeat proces one more time
 
