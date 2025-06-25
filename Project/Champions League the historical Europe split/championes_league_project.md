@@ -36,6 +36,8 @@ Let's start from take a simple question about how many times each team present i
 
 This information give essentsial insight to: team name, team city and country with most apperance in each stage.
 
+#### Round 1 of 16
+
 Table 1. Teams with the most apperance in round 1 of 16.
 ```
 +--------------------------+--------------+-----------------+-----------------+
@@ -108,16 +110,30 @@ Table 1. Teams with the most apperance in round 1 of 16.
 |   Eintracht Frankfurt    |   Germany    |    Frankfurt    |        1        |
 +--------------------------+--------------+-----------------+-----------------+
 ```
-The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude filtering available in the [*teams*](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/teams.csv) table.
+The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude values available in the [*teams*](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/teams.csv) table.
 
 The geographical coordinates are given in a two-number system, where the longitude takes on negative values when moving west of the 0 meridian. After little query modification and result is table below. 
 I took the dividing line between the two blocks as the 14th degree of east longitude, so the eastern block is the cities to the right of this value and the western block is the teams from the countries to the left of this geographical degree.
 
+I filtered the data and excluded Greece, Turkey and Cyprus because these countries were not part of the Soviet Union's sphere of influence. This can be clearly seen on the map.
+
 Table 2. Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
+```
++------------------------+--------------+-----------+----------------+
+|       team_name        | country_name | city_name | team_apperance |
++------------------------+--------------+-----------+----------------+
+|    Shakhtar Donetsk    |   Ukraine    |  Donetsk  |       4        |
+| Zenit Saint Petersburg |    Russia    |   Moscow  |       3        |
+|      CSKA Moscow       |    Russia    |   Moscow  |       2        |
+|      Dynamo Kyiv       |   Ukraine    |    Kyiv   |       1        |
+|    Lokomotiv Moscow    |    Russia    |   Moscow  |       1        |
++------------------------+--------------+-----------+----------------+
+```
+#### Quater final stage
 
-Take next step to quater-final and repeat proces one more time
+In the next step I took the quater-final stage and repeated the process again.
 
-Table 1. Team with the most apperance in quater final round.
+Table 3. Team with the most apperance in quater final round.
 ```
 +--------------------------+--------------+----------------+-----------------+
 |        team_name         | country_name |   city_name    | count_team_name |
@@ -178,14 +194,11 @@ Table 1. Team with the most apperance in quater final round.
 |        SSC Napoli        |    Italy     |     Naples     |        1        |
 +--------------------------+--------------+----------------+-----------------+
 ```
-Teams list from ZSSR block:
-1) Dynamo Kyiv - 2 times
-2) Spartak Moscow - 1 time
-3) CSKA Moscow - 1 time
-4) Legia Warsaw - 1 time
-5) Shakhtar Donetsk - 1 time
-6) RB Leipzig - 1 time
-Total 6 teams
+The same after filtering and excluding the countries I mentioned above the table looks as follows.
+
+Tabel 4. Teams with the most apperance in quater final round belong to Sowieth Union Block.
+
+
 
 Lets analys semi final stage.
 
