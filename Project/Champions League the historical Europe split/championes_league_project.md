@@ -9,7 +9,7 @@ For the sake of clarity, I have taken the date of the end of December 1991 (25 D
 
 For a better understanding of the topic, I have included below a picture of a map of Europe with the dividing line for the western and eastern parts marked.
 
-![image info](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/ion_curtain_europe.jpeg)
+![image info](https://github.com/MSI17819/SQL_projects/blob/main/Project/Champions%20League%20the%20historical%20Europe%20split/ion_curtain_europe.jpeg)
 [*Map source*](https://imgur.com/map-of-europe-following-world-war-ii-3120x2038-tr17uEy)
 
 ### Assumptions
