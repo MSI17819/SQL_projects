@@ -5,7 +5,7 @@ The Champions League is certainly the Holy Grail for football teams, in terms of
 I want to show the Champions League as a historical process, not so much in terms of the history of goals scored, teams and players but, a history with Europe divided into two camps: west and east.
 
 Let's start, then, from the beginning. After 1947, the Iron Curtain divided the continent into two parts, a western bloc with most of Western Europe and part of Germany as RFN, and an eastern bloc with central and eastern European countries and the other part of Germany, the eastern twin of RFN, the NRD. Countries to the east of the NRD, such as Poland, Czechoslovakia (at the time), Hungary, Bulgaria, Romania were included in the sphere of influence of the ZSSR. The western bloc was more or less a bloc with full personal and economic freedom for its citizens on the other hand the eastern bloc was identified with the sovereignty and control of the ZSSR.
-For the sake of clarity, I have taken the date of the end of December 1991 (25 December 1991) when the ZSSR was formally dissolved by Mikhail Gorbachev as the definitive end of the Western and Eastern blocs. It was then that the split formally ended, but analysing the latest political-economic and football, the split is still present today.
+For the sake of clarity, I have taken the date of the end of December 1991 (25 December 1991) when the ZSSR was formally dissolved by Mikhail Gorbachev as the definitive end of the Western and Eastern blocs. It was then that the split formally ended, but analysing the latest political-economic and football matters, the split is still present today.
 
 For a better understanding of the topic, I have included below a picture of a map of Europe with the dividing line for the western and eastern parts marked.
 
@@ -36,9 +36,9 @@ Let's start from take a simple question about how many times each team present i
 
 This information give essentsial insight to: team name, team city and country with most apperance in each stage.
 
-#### Round 1 of 16
+#### **Round 1 of 16**
 
-Table 1. Teams with the most apperance in round 1 of 16.
+*Table 1.* Teams with the most apperance in round 1 of 16.
 ```
 +--------------------------+--------------+-----------------+-----------------+
 |        team_name         | country_name |    city_name    | count_team_name |
@@ -117,7 +117,7 @@ I took the dividing line between the two blocks as the 14th degree of east longi
 
 I filtered the data and excluded Greece, Turkey and Cyprus because these countries were not part of the Soviet Union's sphere of influence. This can be clearly seen on the map.
 
-Table 2. Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
+*Table 2.* Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
 ```
 +------------------------+--------------+-----------+----------------+
 |       team_name        | country_name | city_name | team_apperance |
@@ -129,11 +129,11 @@ Table 2. Teams with the most apperance in round 1 of 16 belong to Sowieth Union 
 |    Lokomotiv Moscow    |    Russia    |   Moscow  |       1        |
 +------------------------+--------------+-----------+----------------+
 ```
-#### Quater final stage
+#### **Quater final stage**
 
 In the next step I took the quater-final stage and repeated the process again.
 
-Table 3. Team with the most apperance in quater final round.
+*Table 3.* Team with the most apperance in quater final round.
 ```
 +--------------------------+--------------+----------------+-----------------+
 |        team_name         | country_name |   city_name    | count_team_name |
@@ -196,7 +196,7 @@ Table 3. Team with the most apperance in quater final round.
 ```
 The same after filtering and excluding the countries I mentioned above the table looks as follows.
 
-Tabel 4. Teams with the most apperance in quater final round belong to Sowieth Union Block.
+*Tabel 4.* Teams with the most apperance in quater final round belong to Sowieth Union Block.
 
 
 
