@@ -13,7 +13,7 @@ Each table is describe in a [metadata](https://github.com/MSI17819/SQL_projects/
 
 ### Project folder
 Contains information about the project and additional necessary files.
-1. [Champions League the historical Europe split](https://github.com/MSI17819/SQL_projects/blob/main/Code/championes_league_project.md) 
+1. [Champions League the historical Europe split](https://github.com/MSI17819/SQL_projects/tree/main/Project/Champions%20League%20the%20historical%20Europe%20split) 
 
 ### Code folder
 Contains MySQL project [code](https://github.com/MSI17819/SQL_projects/blob/main/Code/Champions%20League/top_30_player_with_most_minute_played_in_all_CL_competition.sql)
