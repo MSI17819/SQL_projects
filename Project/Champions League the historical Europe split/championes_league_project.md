@@ -40,82 +40,82 @@ This information give essentsial insight to: team name, team city and country wi
 
 *Table 1.* Teams with the most apperance in round 1 of 16.
 ```
-+--------------------------+--------------+-----------------+-----------------+
-|        team_name         | country_name |    city_name    | count_team_name |
-+--------------------------+--------------+-----------------+-----------------+
-|       Real Madrid        |    Spain     |      Madrid     |        21       |
-|     FC Bayern Munich     |   Germany    |      Munich     |        20       |
-|       FC Barcelona       |    Spain     |    Barcelona    |        18       |
-|       Chelsea F.C.       |   England    |      London     |        17       |
-|       Arsenal F.C.       |   England    |      London     |        15       |
-|         FC Porto         |   Portugal   |      Porto      |        14       |
-|      Juventus F.C.       |    Italy     |      Turin      |        13       |
-|  Manchester United F.C.  |   England    |    Manchester   |        12       |
-| Paris Saint-Germain F.C. |    France    |      Paris      |        12       |
-|      Inter Mediolan      |    Italy     |      Milan      |        11       |
-|      Olympique Lyon      |    France    |       Lyon      |        11       |
-|        A.C. Milan        |    Italy     |      Milan      |        11       |
-|      Liverpool F.C.      |   England    |    Liverpool    |        11       |
-|   Manchester City F.C.   |   England    |    Manchester   |        11       |
-|     Atletico Madrid      |    Spain     |      Madrid     |        10       |
-|    Borussia Dortmund     |   Germany    |     Dortmund    |        9        |
-|         AS Roma          |    Italy     |       Rome      |        7        |
-|      FC Schalke 04       |   Germany    |  Gelsenkirchen  |        6        |
-|        SL Benfica        |   Portugal   |      Lisbon     |        6        |
-|    Tottenham Hotspur     |   England    |      London     |        5        |
-|        Sevilla FC        |    Spain     |     Sevilla     |        5        |
-|     Bayer Leverkusen     |   Germany    |    Leverkusen   |        5        |
-|      PSV Eindhoven       | Netherlands  |    Eindhoven    |        5        |
-|        SSC Napoli        |    Italy     |      Naples     |        5        |
-|        AS Monaco         |    France    |     Monacco     |        4        |
-|     Shakhtar Donetsk     |   Ukraine    |     Donetsk     |        4        |
-|       Valencia CF        |    Spain     |     Valencia    |        4        |
-|        RB Leipzig        |   Germany    |     Leipzig     |        4        |
-|      Olympiacos SFP      |    Greece    |      Pireus     |        3        |
-|      Ajax Amsterdam      | Netherlands  |    Amsterdam    |        3        |
-|      Villarreal CF       |    Spain     |    Villarreal   |        3        |
-|         FC Basel         | Switzerland  |      Basel      |        3        |
-|  Zenit Saint Petersburg  |    Russia    |      Moscow     |        3        |
-|       Celtic F.C.        |   Scotland   |     Glasgow     |        3        |
-|     F.C. Copenhagen      |   Denmark    |    Copenhagen   |        2        |
-|      Real Sociedad       |    Spain     |  San Sebastian  |        2        |
-|      VfB Stuttgart       |   Germany    |    Stuttgart    |        2        |
-|       CSKA Moscow        |    Russia    |      Moscow     |        2        |
-|   Olympique Marseille    |    France    |    Marseille    |        2        |
-|      Werder Bremen       |   Germany    |      Bremen     |        2        |
-|       Sporting CP        |   Portugal   |      Lisbon     |        2        |
-|        Lille OSC         |    France    |      Lille      |        2        |
-|      Galatasaray SK      |    Turkey    |     Stambul     |        2        |
-|       Atalanta BC        |    Italy     |     Bergamo     |        2        |
-|        S.S. Lazio        |    Italy     |       Rome      |        2        |
-|     Lokomotiv Moscow     |    Russia    |      Moscow     |        1        |
-|      APOEL Nikosia       |    Cyprus    |     Nicosia     |        1        |
-|   Deportivo La Coruna    |    Spain     |     A Coruna    |        1        |
-|      Sparta Prague       |    Czech     |      Prague     |        1        |
-|        Malaga CF         |    Spain     |      Malaga     |        1        |
-|        Celta Vigo        |    Spain     |       Vigo      |        1        |
-|       Rangers F.C.       |   Scotland   |     Glasgow     |        1        |
-|    Girondins Bordeaux    |    France    |     Bordeaux    |        1        |
-|      VfL Wolfsburg       |   Germany    |    Wolfsburg    |        1        |
-|       Dynamo Kyiv        |   Ukraine    |       Kyiv      |        1        |
-|         KAA Gent         |   Belgium    |       Gent      |        1        |
-|      Leicester City      |   England    |    Leicester    |        1        |
-|       Besiktas JK        |    Turkey    |     Stambul     |        1        |
-|      ACF Fiorentina      |    Italy     |    Fiorentina   |        1        |
-|      Fenerbahce SK       |    Turkey    |     Stambul     |        1        |
-| Borussia Monchengladbach |   Germany    | Monchengladbach |        1        |
-|     Panathinaikos AO     |    Greece    |      Athens     |        1        |
-|    Red Bull Salzburg     |   Austria    |     Salzburg    |        1        |
-|       Club Brugge        |   Belgium    |      Brugge     |        1        |
-|   Eintracht Frankfurt    |   Germany    |    Frankfurt    |        1        |
-+--------------------------+--------------+-----------------+-----------------+
++--------------------------+--------------+-----------------+----------------+
+|        team_name         | country_name |    city_name    | team_apperance |
++--------------------------+--------------+-----------------+----------------+
+|       Real Madrid        |    Spain     |      Madrid     |       21       |
+|     FC Bayern Munich     |   Germany    |      Munich     |       20       |
+|       FC Barcelona       |    Spain     |    Barcelona    |       18       |
+|       Chelsea F.C.       |   England    |      London     |       17       |
+|       Arsenal F.C.       |   England    |      London     |       15       |
+|         FC Porto         |   Portugal   |      Porto      |       14       |
+|      Juventus F.C.       |    Italy     |      Turin      |       13       |
+|  Manchester United F.C.  |   England    |    Manchester   |       12       |
+| Paris Saint-Germain F.C. |    France    |      Paris      |       12       |
+|      Inter Mediolan      |    Italy     |      Milan      |       11       |
+|      Olympique Lyon      |    France    |       Lyon      |       11       |
+|        A.C. Milan        |    Italy     |      Milan      |       11       |
+|      Liverpool F.C.      |   England    |    Liverpool    |       11       |
+|   Manchester City F.C.   |   England    |    Manchester   |       11       |
+|     Atletico Madrid      |    Spain     |      Madrid     |       10       |
+|    Borussia Dortmund     |   Germany    |     Dortmund    |       9        |
+|         AS Roma          |    Italy     |       Rome      |       7        |
+|      FC Schalke 04       |   Germany    |  Gelsenkirchen  |       6        |
+|        SL Benfica        |   Portugal   |      Lisbon     |       6        |
+|    Tottenham Hotspur     |   England    |      London     |       5        |
+|        Sevilla FC        |    Spain     |     Sevilla     |       5        |
+|     Bayer Leverkusen     |   Germany    |    Leverkusen   |       5        |
+|      PSV Eindhoven       | Netherlands  |    Eindhoven    |       5        |
+|        SSC Napoli        |    Italy     |      Naples     |       5        |
+|        AS Monaco         |    France    |     Monacco     |       4        |
+|     Shakhtar Donetsk     |   Ukraine    |     Donetsk     |       4        |
+|       Valencia CF        |    Spain     |     Valencia    |       4        |
+|        RB Leipzig        |   Germany    |     Leipzig     |       4        |
+|      Olympiacos SFP      |    Greece    |      Pireus     |       3        |
+|      Ajax Amsterdam      | Netherlands  |    Amsterdam    |       3        |
+|      Villarreal CF       |    Spain     |    Villarreal   |       3        |
+|         FC Basel         | Switzerland  |      Basel      |       3        |
+|  Zenit Saint Petersburg  |    Russia    |      Moscow     |       3        |
+|       Celtic F.C.        |   Scotland   |     Glasgow     |       3        |
+|     F.C. Copenhagen      |   Denmark    |    Copenhagen   |       2        |
+|      Real Sociedad       |    Spain     |  San Sebastian  |       2        |
+|      VfB Stuttgart       |   Germany    |    Stuttgart    |       2        |
+|       CSKA Moscow        |    Russia    |      Moscow     |       2        |
+|   Olympique Marseille    |    France    |    Marseille    |       2        |
+|      Werder Bremen       |   Germany    |      Bremen     |       2        |
+|       Sporting CP        |   Portugal   |      Lisbon     |       2        |
+|        Lille OSC         |    France    |      Lille      |       2        |
+|      Galatasaray SK      |    Turkey    |     Stambul     |       2        |
+|       Atalanta BC        |    Italy     |     Bergamo     |       2        |
+|        S.S. Lazio        |    Italy     |       Rome      |       2        |
+|     Lokomotiv Moscow     |    Russia    |      Moscow     |       1        |
+|      APOEL Nikosia       |    Cyprus    |     Nicosia     |       1        |
+|   Deportivo La Coruna    |    Spain     |     A Coruna    |       1        |
+|      Sparta Prague       |    Czech     |      Prague     |       1        |
+|        Malaga CF         |    Spain     |      Malaga     |       1        |
+|        Celta Vigo        |    Spain     |       Vigo      |       1        |
+|       Rangers F.C.       |   Scotland   |     Glasgow     |       1        |
+|    Girondins Bordeaux    |    France    |     Bordeaux    |       1        |
+|      VfL Wolfsburg       |   Germany    |    Wolfsburg    |       1        |
+|       Dynamo Kyiv        |   Ukraine    |       Kyiv      |       1        |
+|         KAA Gent         |   Belgium    |      Ghent      |       1        |
+|      Leicester City      |   England    |    Leicester    |       1        |
+|       Besiktas JK        |    Turkey    |     Stambul     |       1        |
+|      ACF Fiorentina      |    Italy     |     Florence    |       1        |
+|      Fenerbahce SK       |    Turkey    |     Stambul     |       1        |
+| Borussia Monchengladbach |   Germany    | Monchengladbach |       1        |
+|     Panathinaikos AO     |    Greece    |      Athens     |       1        |
+|    Red Bull Salzburg     |   Austria    |     Salzburg    |       1        |
+|       Club Brugge        |   Belgium    |      Brugge     |       1        |
+|   Eintracht Frankfurt    |   Germany    |    Frankfurt    |       1        |
++--------------------------+--------------+-----------------+----------------+
 ```
 The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude values available in the [*teams*](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/teams.csv) table.
 
 The geographical coordinates are given in a two-number system, where the longitude takes on negative values when moving west of the 0 meridian. After little query modification and result is table below. 
-I took the dividing line between the two blocks as the 14th degree of east longitude, so the eastern block is the cities to the right of this value and the western block is the teams from the countries to the left of this geographical degree.
+I took the dividing line between the two blocks as the 12th degree of east longitude, so the eastern block is the cities to the right of this value and the western block is the teams from the countries to the left of this geographical degree.
 
-I filtered the data and excluded Greece, Turkey and Cyprus because these countries were not part of the Soviet Union's sphere of influence. This can be clearly seen on the map.
+I filtered the data and excluded Greece, Turkey, Cyprus, Italy, Croatia, Denmark and part of Austria because these countries were not part of the Soviet Union's sphere of influence, but were nevertheless included in queries because they lay to the right of the 12th meridian designated by me as the dividing line. Well the split is not perfect. This can be clearly seen on the map.
 
 *Table 2.* Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
 ```
@@ -123,8 +123,10 @@ I filtered the data and excluded Greece, Turkey and Cyprus because these countri
 |       team_name        | country_name | city_name | team_apperance |
 +------------------------+--------------+-----------+----------------+
 |    Shakhtar Donetsk    |   Ukraine    |  Donetsk  |       4        |
+|       RB Leipzig       |   Germany    |  Leipzig  |       4        |
 | Zenit Saint Petersburg |    Russia    |   Moscow  |       3        |
 |      CSKA Moscow       |    Russia    |   Moscow  |       2        |
+|     Sparta Prague      |    Czech     |   Prague  |       1        |
 |      Dynamo Kyiv       |   Ukraine    |    Kyiv   |       1        |
 |    Lokomotiv Moscow    |    Russia    |   Moscow  |       1        |
 +------------------------+--------------+-----------+----------------+
@@ -135,116 +137,129 @@ In the next step I took the quater-final stage and repeated the process again.
 
 *Table 3.* Team with the most apperance in quater final round.
 ```
-+--------------------------+--------------+----------------+-----------------+
-|        team_name         | country_name |   city_name    | count_team_name |
-+--------------------------+--------------+----------------+-----------------+
-|     FC Bayern Munich     |   Germany    |     Munich     |        22       |
-|       Real Madrid        |    Spain     |     Madrid     |        20       |
-|       FC Barcelona       |    Spain     |   Barcelona    |        19       |
-|  Manchester United F.C.  |   England    |   Manchester   |        14       |
-|      Juventus F.C.       |    Italy     |     Turin      |        12       |
-|       Chelsea F.C.       |   England    |     London     |        11       |
-|      Liverpool F.C.      |   England    |   Liverpool    |        9        |
-| Paris Saint-Germain F.C. |    France    |     Paris      |        8        |
-|        A.C. Milan        |    Italy     |     Milan      |        8        |
-|   Manchester City F.C.   |   England    |   Manchester   |        8        |
-|    Borussia Dortmund     |   Germany    |    Dortmund    |        8        |
-|         FC Porto         |   Portugal   |     Porto      |        7        |
-|       Arsenal F.C.       |   England    |     London     |        7        |
-|      Inter Mediolan      |    Italy     |     Milan      |        7        |
-|     Atletico Madrid      |    Spain     |     Madrid     |        7        |
-|        SL Benfica        |   Portugal   |     Lisbon     |        6        |
-|      Ajax Amsterdam      | Netherlands  |   Amsterdam    |        5        |
-|      Olympique Lyon      |    France    |      Lyon      |        5        |
-|       Valencia CF        |    Spain     |    Valencia    |        4        |
-|      Villarreal CF       |    Spain     |   Villarreal   |        3        |
-|   Deportivo La Coruna    |    Spain     |    A Coruna    |        3        |
-|        AS Monaco         |    France    |    Monacco     |        3        |
-|         AS Roma          |    Italy     |      Rome      |        3        |
-|     Panathinaikos AO     |    Greece    |     Athens     |        2        |
-|       Dynamo Kyiv        |   Ukraine    |      Kyiv      |        2        |
-|        S.S. Lazio        |    Italy     |      Rome      |        2        |
-|      Galatasaray SK      |    Turkey    |    Stambul     |        2        |
-|      PSV Eindhoven       | Netherlands  |   Eindhoven    |        2        |
-|      FC Schalke 04       |   Germany    | Gelsenkirchen  |        2        |
-|    Tottenham Hotspur     |   England    |     London     |        2        |
-|     Bayer Leverkusen     |   Germany    |   Leverkusen   |        2        |
-|        AJ Auxerre        |    France    |    Auxerre     |        1        |
-|       Rosenborg BK       |    Norway    |   Trondheim    |        1        |
-|    Leeds United F.C.     |   England    |     Leeds      |        1        |
-|    FC Kaiserslautern     |   Germany    | Kaiserslautern |        1        |
-|      Olympiacos SFP      |    Greece    |     Pireus     |        1        |
-|       Hajduk Split       |   Croatia    |     Split      |        1        |
-|        FC Nantes         |    France    |     Nantes     |        1        |
-|      Spartak Moscow      |    Russia    |     Moscow     |        1        |
-|      Fenerbahce SK       |    Turkey    |    Stambul     |        1        |
-|    Girondins Bordeaux    |    France    |    Bordeaux    |        1        |
-|       CSKA Moscow        |    Russia    |     Moscow     |        1        |
-|       Legia Warsaw       |    Poland    |     Warsaw     |        1        |
-|     Shakhtar Donetsk     |   Ukraine    |    Donetsk     |        1        |
-|   Olympique Marseille    |    France    |   Marseille    |        1        |
-|      APOEL Nikosia       |    Cyprus    |    Nicosia     |        1        |
-|        Malaga CF         |    Spain     |     Malaga     |        1        |
-|      VfL Wolfsburg       |   Germany    |   Wolfsburg    |        1        |
-|       IFK Goteborg       |    Sweden    |    Goteborg    |        1        |
-|      Leicester City      |   England    |   Leicester    |        1        |
-|        Sevilla FC        |    Spain     |    Sevilla     |        1        |
-|       Atalanta BC        |    Italy     |    Bergamo     |        1        |
-|        RB Leipzig        |   Germany    |    Leipzig     |        1        |
-|        SSC Napoli        |    Italy     |     Naples     |        1        |
-+--------------------------+--------------+----------------+-----------------+
++--------------------------+--------------+----------------+----------------+
+|        team_name         | country_name |   city_name    | team_apperance |
++--------------------------+--------------+----------------+----------------+
+|     FC Bayern Munich     |   Germany    |     Munich     |       22       |
+|       Real Madrid        |    Spain     |     Madrid     |       20       |
+|       FC Barcelona       |    Spain     |   Barcelona    |       19       |
+|  Manchester United F.C.  |   England    |   Manchester   |       14       |
+|      Juventus F.C.       |    Italy     |     Turin      |       12       |
+|       Chelsea F.C.       |   England    |     London     |       11       |
+|      Liverpool F.C.      |   England    |   Liverpool    |       9        |
+| Paris Saint-Germain F.C. |    France    |     Paris      |       8        |
+|        A.C. Milan        |    Italy     |     Milan      |       8        |
+|   Manchester City F.C.   |   England    |   Manchester   |       8        |
+|    Borussia Dortmund     |   Germany    |    Dortmund    |       8        |
+|         FC Porto         |   Portugal   |     Porto      |       7        |
+|       Arsenal F.C.       |   England    |     London     |       7        |
+|      Inter Mediolan      |    Italy     |     Milan      |       7        |
+|     Atletico Madrid      |    Spain     |     Madrid     |       7        |
+|        SL Benfica        |   Portugal   |     Lisbon     |       6        |
+|      Ajax Amsterdam      | Netherlands  |   Amsterdam    |       5        |
+|      Olympique Lyon      |    France    |      Lyon      |       5        |
+|       Valencia CF        |    Spain     |    Valencia    |       4        |
+|      Villarreal CF       |    Spain     |   Villarreal   |       3        |
+|   Deportivo La Coruna    |    Spain     |    A Coruna    |       3        |
+|        AS Monaco         |    France    |    Monacco     |       3        |
+|         AS Roma          |    Italy     |      Rome      |       3        |
+|     Panathinaikos AO     |    Greece    |     Athens     |       2        |
+|       Dynamo Kyiv        |   Ukraine    |      Kyiv      |       2        |
+|        S.S. Lazio        |    Italy     |      Rome      |       2        |
+|      Galatasaray SK      |    Turkey    |    Stambul     |       2        |
+|      PSV Eindhoven       | Netherlands  |   Eindhoven    |       2        |
+|      FC Schalke 04       |   Germany    | Gelsenkirchen  |       2        |
+|    Tottenham Hotspur     |   England    |     London     |       2        |
+|     Bayer Leverkusen     |   Germany    |   Leverkusen   |       2        |
+|        AJ Auxerre        |    France    |    Auxerre     |       1        |
+|       Rosenborg BK       |    Norway    |   Trondheim    |       1        |
+|    Leeds United F.C.     |   England    |     Leeds      |       1        |
+|    FC Kaiserslautern     |   Germany    | Kaiserslautern |       1        |
+|      Olympiacos SFP      |    Greece    |     Pireus     |       1        |
+|       Hajduk Split       |   Croatia    |     Split      |       1        |
+|        FC Nantes         |    France    |     Nantes     |       1        |
+|      Spartak Moscow      |    Russia    |     Moscow     |       1        |
+|      Fenerbahce SK       |    Turkey    |    Stambul     |       1        |
+|    Girondins Bordeaux    |    France    |    Bordeaux    |       1        |
+|       CSKA Moscow        |    Russia    |     Moscow     |       1        |
+|       Legia Warsaw       |    Poland    |     Warsaw     |       1        |
+|     Shakhtar Donetsk     |   Ukraine    |    Donetsk     |       1        |
+|   Olympique Marseille    |    France    |   Marseille    |       1        |
+|      APOEL Nikosia       |    Cyprus    |    Nicosia     |       1        |
+|        Malaga CF         |    Spain     |     Malaga     |       1        |
+|      VfL Wolfsburg       |   Germany    |   Wolfsburg    |       1        |
+|       IFK Goteborg       |    Sweden    |    Goteborg    |       1        |
+|      Leicester City      |   England    |   Leicester    |       1        |
+|        Sevilla FC        |    Spain     |    Sevilla     |       1        |
+|       Atalanta BC        |    Italy     |    Bergamo     |       1        |
+|        RB Leipzig        |   Germany    |    Leipzig     |       1        |
+|        SSC Napoli        |    Italy     |     Naples     |       1        |
++--------------------------+--------------+----------------+----------------+
 ```
 The same after filtering and excluding the countries I mentioned above the table looks as follows.
 
 *Tabel 4.* Teams with the most apperance in quater final round belong to Sowieth Union Block.
-
-
-
-Lets analys semi final stage.
-
-Table 3. Team with the most apperance in semi final round.
 ```
-+--------------------------+--------------+---------------+-----------------+
-|        team_name         | country_name |   city_name   | count_team_name |
-+--------------------------+--------------+---------------+-----------------+
-|       Real Madrid        |    Spain     |     Madrid    |        17       |
-|     FC Bayern Munich     |   Germany    |     Munich    |        13       |
-|       FC Barcelona       |    Spain     |   Barcelona   |        12       |
-|       Chelsea F.C.       |   England    |     London    |        8        |
-|        A.C. Milan        |    Italy     |     Milan     |        7        |
-|      Juventus F.C.       |    Italy     |     Turin     |        7        |
-|  Manchester United F.C.  |   England    |   Manchester  |        7        |
-|      Liverpool F.C.      |   England    |   Liverpool   |        6        |
-|        AS Monaco         |    France    |    Monacco    |        4        |
-| Paris Saint-Germain F.C. |    France    |     Paris     |        4        |
-|    Borussia Dortmund     |   Germany    |    Dortmund   |        4        |
-|   Manchester City F.C.   |   England    |   Manchester  |        4        |
-|      Ajax Amsterdam      | Netherlands  |   Amsterdam   |        3        |
-|      Inter Mediolan      |    Italy     |     Milan     |        3        |
-|     Atletico Madrid      |    Spain     |     Madrid    |        3        |
-|         FC Porto         |   Portugal   |     Porto     |        2        |
-|       Valencia CF        |    Spain     |    Valencia   |        2        |
-|       Arsenal F.C.       |   England    |     London    |        2        |
-|      Villarreal CF       |    Spain     |   Villarreal  |        2        |
-|      Olympique Lyon      |    France    |      Lyon     |        2        |
-|     Panathinaikos AO     |    Greece    |     Athens    |        1        |
-|        FC Nantes         |    France    |     Nantes    |        1        |
-|       Dynamo Kyiv        |   Ukraine    |      Kyiv     |        1        |
-|    Leeds United F.C.     |   England    |     Leeds     |        1        |
-|     Bayer Leverkusen     |   Germany    |   Leverkusen  |        1        |
-|   Deportivo La Coruna    |    Spain     |    A Coruna   |        1        |
-|      PSV Eindhoven       | Netherlands  |   Eindhoven   |        1        |
-|      FC Schalke 04       |   Germany    | Gelsenkirchen |        1        |
-|         AS Roma          |    Italy     |      Rome     |        1        |
-|    Tottenham Hotspur     |   England    |     London    |        1        |
-|        RB Leipzig        |   Germany    |    Leipzig    |        1        |
-+--------------------------+--------------+---------------+-----------------+
++------------------+--------------+-----------+----------------+
+|    team_name     | country_name | city_name | team_apperance |
++------------------+--------------+-----------+----------------+
+|   Dynamo Kyiv    |   Ukraine    |    Kyiv   |       2        |
+|   CSKA Moscow    |    Russia    |   Moscow  |       1        |
+|  Spartak Moscow  |    Russia    |   Moscow  |       1        |
+|   Legia Warsaw   |    Poland    |   Warsaw  |       1        |
+| Shakhtar Donetsk |   Ukraine    |  Donetsk  |       1        |
+|    RB Leipzig    |   Germany    |  Leipzig  |       1        |
++------------------+--------------+-----------+----------------+
 ```
-Teams list from former ZSSR block:
-1) Dynamo Kyiv - 1 time
-2) RB Leipzig - 1 time
+Finally lets analysed semi final stage.
 
-The last table with teams from final stage and winner table.
+Table 5. Team with the most apperance in semi final round.
+```
++--------------------------+--------------+---------------+----------------+
+|        team_name         | country_name |   city_name   | team_apperance |
++--------------------------+--------------+---------------+----------------+
+|       Real Madrid        |    Spain     |     Madrid    |       17       |
+|     FC Bayern Munich     |   Germany    |     Munich    |       13       |
+|       FC Barcelona       |    Spain     |   Barcelona   |       12       |
+|       Chelsea F.C.       |   England    |     London    |       8        |
+|        A.C. Milan        |    Italy     |     Milan     |       7        |
+|      Juventus F.C.       |    Italy     |     Turin     |       7        |
+|  Manchester United F.C.  |   England    |   Manchester  |       7        |
+|      Liverpool F.C.      |   England    |   Liverpool   |       6        |
+|        AS Monaco         |    France    |    Monacco    |       4        |
+| Paris Saint-Germain F.C. |    France    |     Paris     |       4        |
+|    Borussia Dortmund     |   Germany    |    Dortmund   |       4        |
+|   Manchester City F.C.   |   England    |   Manchester  |       4        |
+|      Ajax Amsterdam      | Netherlands  |   Amsterdam   |       3        |
+|      Inter Mediolan      |    Italy     |     Milan     |       3        |
+|     Atletico Madrid      |    Spain     |     Madrid    |       3        |
+|         FC Porto         |   Portugal   |     Porto     |       2        |
+|       Valencia CF        |    Spain     |    Valencia   |       2        |
+|       Arsenal F.C.       |   England    |     London    |       2        |
+|      Villarreal CF       |    Spain     |   Villarreal  |       2        |
+|      Olympique Lyon      |    France    |      Lyon     |       2        |
+|     Panathinaikos AO     |    Greece    |     Athens    |       1        |
+|        FC Nantes         |    France    |     Nantes    |       1        |
+|       Dynamo Kyiv        |   Ukraine    |      Kyiv     |       1        |
+|    Leeds United F.C.     |   England    |     Leeds     |       1        |
+|     Bayer Leverkusen     |   Germany    |   Leverkusen  |       1        |
+|   Deportivo La Coruna    |    Spain     |    A Coruna   |       1        |
+|      PSV Eindhoven       | Netherlands  |   Eindhoven   |       1        |
+|      FC Schalke 04       |   Germany    | Gelsenkirchen |       1        |
+|         AS Roma          |    Italy     |      Rome     |       1        |
+|    Tottenham Hotspur     |   England    |     London    |       1        |
+|        RB Leipzig        |   Germany    |    Leipzig    |       1        |
++--------------------------+--------------+---------------+----------------+
+```
+Below data after filtering.
 
-
-
+*Table 6.* Teams with the most apperance in semi final round belong to ZSRR Block.
+```
++-------------+--------------+-----------+----------------+
+|  team_name  | country_name | city_name | team_apperance |
++-------------+--------------+-----------+----------------+
+| Dynamo Kyiv |   Ukraine    |    Kyiv   |       1        |
+|  RB Leipzig |   Germany    |  Leipzig  |       1        |
++-------------+--------------+-----------+----------------+
+```
+As expected, no team from parts of the Soviet sphere of influence reached the final.
