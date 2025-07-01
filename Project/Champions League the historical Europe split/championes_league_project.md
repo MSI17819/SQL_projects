@@ -112,10 +112,10 @@ This information give essentsial insight to: team name, team city and country wi
 ```
 The table above shows all the teams that featured in the 1 of 16 stage CM, I will be most interested in which teams were part of the Eastern Bloc. This will be facilitated by using the longitude values available in the [*teams*](https://github.com/MSI17819/SQL_projects/blob/main/Dataset/Champions%20League/teams.csv) table.
 
-The geographical coordinates are given in a two-number system, where the longitude takes on negative values when moving west of the 0 meridian. After little query modification and result is table below. 
+The geographical coordinates are given in a two-number system, where the longitude takes on negative values when moving west of the 0 meridian. After a slight modification of the query, the result is in the table below. 
 I took the dividing line between the two blocks as the 12th degree of east longitude, so the eastern block is the cities to the right of this value and the western block is the teams from the countries to the left of this geographical degree.
 
-I filtered the data and excluded Greece, Turkey, Cyprus, Italy, Croatia, Denmark and part of Austria because these countries were not part of the Soviet Union's sphere of influence, but were nevertheless included in queries because they lay to the right of the 12th meridian designated by me as the dividing line. Well the split is not perfect. This can be clearly seen on the map.
+I filtered the data and excluded Greece, Turkey, Cyprus, Italy, Croatia, Denmark and part of Austria because these countries were not part of the Soviet Union's sphere of influence, but were nevertheless included in queries because they lay to the right of the 12th meridian. Well the split is not perfect. This can be clearly seen on the map.
 
 *Table 2.* Teams with the most apperance in round 1 of 16 belong to Sowieth Union Block.
 ```
@@ -213,7 +213,7 @@ The same after filtering and excluding the countries I mentioned above the table
 ```
 Finally lets analysed semi final stage.
 
-Table 5. Team with the most apperance in semi final round.
+*Table 5.* Team with the most apperance in semi final round.
 ```
 +--------------------------+--------------+---------------+----------------+
 |        team_name         | country_name |   city_name   | team_apperance |
@@ -262,4 +262,6 @@ Below data after filtering.
 |  RB Leipzig |   Germany    |  Leipzig  |       1        |
 +-------------+--------------+-----------+----------------+
 ```
-As expected, no team from parts of the Soviet sphere of influence reached the final.
+As expected, no team from the part of the Soviet sphere of influence reached the final.
+
+Finally, I added the year of the CM season and the team members. Dynamo Kyiv, when they reached the semi-finals, had in my opinion the best team in the club's history with coach Valery Lobanovskiy, Sevchenko, Rebov etc. RB Leipzig, on the other hand, showed that good management, the idea for the club and the money invested give, a semi-final level after only 11 years started from scratch. Plus the team playing style as the main sponsor logo, i.e. energetic and full of football transitional moments.
