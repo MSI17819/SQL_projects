@@ -264,4 +264,61 @@ Below data after filtering.
 ```
 As expected, no team from the part of the Soviet sphere of influence reached the final.
 
-Finally, I added the year of the CM season and the team members. Dynamo Kyiv, when they reached the semi-finals, had in my opinion the best team in the club's history with coach Valery Lobanovskiy, Sevchenko, Rebov etc. RB Leipzig, on the other hand, showed that good management, the idea for the club and the money invested give, a semi-final level after only 11 years started from scratch. Plus the team playing style as the main sponsor logo, i.e. energetic and full of football transitional moments.
+Finally, I added the year of the CM season and the team members. Dynamo Kyiv, when they reached the semi-finals, had in my opinion the best team in the club's history with great coach Valeriy Lobanovskyi, Andriy Shevchenko, Serhiy Rebrov, Oleh Luzhny,  Kakha Kaladze etc. RB Leipzig, on the other hand, showed that good management, the idea for the club and the money invested give, a semi-final level after only 11 years started from scratch. Plus the team playing style as the main sponsor logo, i.e. energetic and full of football transitional moments with quality players Dani Olmo, Ibrahima Konate, Christopher Nkunku or Dayot Upamecano.
+
+*Tabel 7.* Squads, seasons year for two teams who reached semi final from historical Sowiet Union area of influence.
+
+```
++-------------+-------------+------------------------+-----------------+
+| season_year |  team_name  |         player         | player_position |
++-------------+-------------+------------------------+-----------------+
+|  1998/1999  | Dynamo Kyiv |     Artem Yashkin      |        MF       |
+|  1998/1999  | Dynamo Kyiv |   Vladyslav Vashchuk   |        DF       |
+|  1998/1999  | Dynamo Kyiv | Oleksandr Shovkovskiy  |        GK       |
+|  1998/1999  | Dynamo Kyiv |   Andriy Shevchenko    |        FW       |
+|  1998/1999  | Dynamo Kyiv |     Serhiy Rebrov      |      FW,MF      |
+|  1998/1999  | Dynamo Kyiv |   Dmytro Mykhaylenko   |        MF       |
+|  1998/1999  | Dynamo Kyiv |      Oleh Luzhny       |        DF       |
+|  1998/1999  | Dynamo Kyiv |  Oleksandr Kyryukhin   |      DF,MF      |
+|  1998/1999  | Dynamo Kyiv |   Vitaliy Kosovskyi    |        MF       |
+|  1998/1999  | Dynamo Kyiv |   Sergei Kormiltsev    |      FW,MF      |
+|  1998/1999  | Dynamo Kyiv |    Serhiy Konovalov    |        MF       |
+|  1998/1999  | Dynamo Kyiv | Alyaksandr Khatskevich |        MF       |
+|  1998/1999  | Dynamo Kyiv |     Vasyl Kardash      |      DF,MF      |
+|  1998/1999  | Dynamo Kyiv |   Yuriy Kalitvintsev   |        MF       |
+|  1998/1999  | Dynamo Kyiv |     Kakha Kaladze      |      DF,MF      |
+|  1998/1999  | Dynamo Kyiv |      Andriy Husin      |        MF       |
+|  1998/1999  | Dynamo Kyiv |   Oleksandr Holovko    |        DF       |
+|  1998/1999  | Dynamo Kyiv |  Aleksei Gerasimenko   |      FW,MF      |
+|  1998/1999  | Dynamo Kyiv |     Serhiy Fedorov     |        DF       |
+|  1998/1999  | Dynamo Kyiv |    Yuriy Dmytrulin     |        DF       |
+|  1998/1999  | Dynamo Kyiv | Valyantsin Byalkevich  |        MF       |
+|  2019/2020  |  RB Leipzig |      Timo Werner       |      FW,MF      |
+|  2019/2020  |  RB Leipzig |    Dayot Upamecano     |        DF       |
+|  2019/2020  |  RB Leipzig |     Patrik Schick      |        FW       |
+|  2019/2020  |  RB Leipzig |    Marcelo Saracchi    |        DF       |
+|  2019/2020  |  RB Leipzig |    Marcel Sabitzer     |      MF,FW      |
+|  2019/2020  |  RB Leipzig |     Yussuf Poulsen     |      FW,MF      |
+|  2019/2020  |  RB Leipzig |      Willi Orban       |        DF       |
+|  2019/2020  |  RB Leipzig |       Dani Olmo        |        MF       |
+|  2019/2020  |  RB Leipzig |   Christopher Nkunku   |      FW,MF      |
+|  2019/2020  |  RB Leipzig |       Yvon Mvogo       |        GK       |
+|  2019/2020  |  RB Leipzig |     Nordi Mukiele      |        DF       |
+|  2019/2020  |  RB Leipzig |    Ademola Lookman     |        FW       |
+|  2019/2020  |  RB Leipzig |     Konrad Laimer      |      MF,DF      |
+|  2019/2020  |  RB Leipzig |    Ibrahima Konate     |        DF       |
+|  2019/2020  |  RB Leipzig |   Lukas Klostermann    |        DF       |
+|  2019/2020  |  RB Leipzig |      Kevin Kampl       |        MF       |
+|  2019/2020  |  RB Leipzig |   Marcel Halstenberg   |        DF       |
+|  2019/2020  |  RB Leipzig |     Amadou Haidara     |      MF,FW      |
+|  2019/2020  |  RB Leipzig |     Peter Gulacsi      |        GK       |
+|  2019/2020  |  RB Leipzig |     Emil Forsberg      |      MF,FW      |
+|  2019/2020  |  RB Leipzig |      Diego Demme       |        MF       |
+|  2019/2020  |  RB Leipzig |     Matheus Cunha      |        FW       |
+|  2019/2020  |  RB Leipzig |        Angelino        |      DF,MF      |
+|  2019/2020  |  RB Leipzig |      Ethan Ampadu      |        DF       |
+|  2019/2020  |  RB Leipzig |      Tyler Adams       |      MF,DF      |
++-------------+-------------+------------------------+-----------------+
+```
+
+
