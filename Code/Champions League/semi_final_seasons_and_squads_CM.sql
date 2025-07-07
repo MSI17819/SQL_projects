@@ -27,16 +27,18 @@ with semi_final as
 			sf.country_name as country_name,
 			sf.city_name as city_name,
 			sf.count_team as team_apperance
-		from semi_final sf 
+		from 
+			semi_final sf 
 		left join teams t on
-		sf.city_name = t.city_name
+			sf.city_name = t.city_name
 		where longitude > 12
 		group by 1, 2, 3, 4
 		order by team_apperance desc
 		),
 	result_with_season_id as 
 		(select * 
-		from result_semi_final
+		from 
+			result_semi_final
 		where country_name in ('Ukraine','Germany')
 		),
 	final_result as (
@@ -45,9 +47,10 @@ with semi_final as
 			rsi.team_name,  
 			sqt.player,
 			sqt.player_position 
-		from result_with_season_id rsi
+		from 
+			result_with_season_id rsi
 		left join squads sqt on	
-		rsi.season_id = sqt.season_id
+			rsi.season_id = sqt.season_id
 		where sqt.team_id = 8 or sqt.team_id = 130)
 select
 	s.season_year,
