@@ -264,7 +264,7 @@ Below data after filtering.
 ```
 As expected, no team from the part of the Soviet sphere of influence reached the final.
 
-Finally, I added the year of the CM season and the team members. Dynamo Kyiv, when they reached the semi-finals, had in my opinion the best team in the club's history with great coach Valeriy Lobanovskyi, Andriy Shevchenko, Serhiy Rebrov, Oleh Luzhny,  Kakha Kaladze etc. RB Leipzig, on the other hand, showed that good management, the idea for the club and the money invested give, a semi-final level after only 11 years started from scratch. Plus the team playing style as the main sponsor logo, i.e. energetic and full of football transitional moments with quality players Dani Olmo, Ibrahima Konate, Christopher Nkunku or Dayot Upamecano.
+Finally, I added the year of the CM season and the team members. Dynamo Kyiv, when they reached the semi-finals, had in my opinion the best team in the club's history with great coach Valeriy Lobanovskyi, and players: Andriy Shevchenko, Serhiy Rebrov, Oleh Luzhny,  Kakha Kaladze etc. RB Leipzig, on the other hand, showed that good management, the idea for the club and the money invested give, a semi-final level after only 11 years started from scratch. Plus the team playing style as the main sponsor logo, i.e. energetic and full of football transitional moments with quality players like Dani Olmo, Ibrahima Konate, Christopher Nkunku or Dayot Upamecano.
 
 *Tabel 7.* Squads, seasons year for two teams who reached semi final from historical Sowiet Union area of influence.
 
@@ -320,5 +320,4 @@ Finally, I added the year of the CM season and the team members. Dynamo Kyiv, wh
 |  2019/2020  |  RB Leipzig |      Tyler Adams       |      MF,DF      |
 +-------------+-------------+------------------------+-----------------+
 ```
-
-
+Such a quick and basic analysis showed how the division of Europe is still alive between the Western countries and the former Eastern Bloc. In football, as in all sports, there is a “winner's gene” perhaps it is in the Champions League that teams that perform serially in quarter-finals, semi-finals and finals acquire such a gene. A gene that consists of both the economic aspect, experience and organisational wisdom, people and their vision and a bit of luck. In addition, we can also add the stability/consistency of the promotion of individual teams year on year to the CM competition. As a whole, until this season we have not had a team from this part of Europe, where the Soviet Union used to be a sphere of influence, reach and win the final of the CM competition.
